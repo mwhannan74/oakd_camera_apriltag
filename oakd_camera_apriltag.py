@@ -1,5 +1,5 @@
 #--------------------------------------------------------------------------------------------------------------------
-# oakd_camera_stereo
+# oakd_camera_apriltag
 # A sample python program that detects AprilTags. This code is directly from
 # github.com/luxonis/depthai-python/blob/main/examples/AprilTag/
 # It does not work well. I am just getting spiradic detections of the AprilTags.
