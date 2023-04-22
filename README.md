@@ -27,5 +27,6 @@ AprilTags
 https://april.eecs.umich.edu/software/apriltag  
 https://github.com/AprilRobotics/apriltag-imgs  
   
-Printable pdf file of AprilTags located here  
+Printable pdf file of AprilTags located here
+https://github.com/AprilRobotics/apriltag-imgs/files/3680870/AprilTag-tag36h11.pdf
 https://docs.cbteeple.com/robot/april-tags  
