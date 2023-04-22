@@ -30,6 +30,7 @@
 #
 # Printable pdf file of AprilTags located here
 # https://docs.cbteeple.com/robot/april-tags
+# https://github.com/AprilRobotics/apriltag-imgs/files/3680870/AprilTag-tag36h11.pdf
 
 #--------------------------------------------------------------------------------------------------------------------
 #import numpy as np  # numpy package -> manipulate the packet data returned by depthai
