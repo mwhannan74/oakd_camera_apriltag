@@ -1,6 +1,8 @@
 #--------------------------------------------------------------------------------------------------------------------
 # oakd_camera_stereo
-# A sample python program that displays depth image from Oak-D stereo camera.
+# A sample python program that detects AprilTags. This code is directly from
+# github.com/luxonis/depthai-python/blob/main/examples/AprilTag/
+# It does not work well. I am just getting spiradic detections of the AprilTags.
 #
 # Camera Specs
 # Robotics Vision Core 2 (RVC2) with 16x SHAVE cores
